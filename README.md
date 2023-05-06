@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/valentin dealbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin dealbera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valentin-dealbera-b30561262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin dealbera" height="30" width="40" /></a>
 <a href="https://fb.com/valentin.dealberaborovinsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="valentin dealbera borovinsky" height="30" width="40" /></a>
 <a href="https://instagram.com/valedealbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valendealbera" height="30" width="40" /></a>
 </p>
