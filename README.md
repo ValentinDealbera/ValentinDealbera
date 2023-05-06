@@ -8,13 +8,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentindealbera" alt="valentindealbera" /></a> </p>
 <hr/>
 <p align="center">
-- 🌱 I’m currently learning **Advance CSS, Typescript and React Native**
+- 🌱 I’m currently learning <strong>Advance CSS, Typescript and React Native</strong>
 </p>
 <p align="center">
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or anything :3**
+- 💬 Ask me about <strong>React, Next.js, Node.js, Express.js, MongoDB, or anything :3</strong>
   </p>
 <p align="center">
-- 📫 How to reach me **valentindealbera01@gmail.com**
+- 📫 How to reach me <strong>valentindealbera01@gmail.com</strong>
 </p>
 <hr/>
 <h3 align="center">Connect with me:</h3>
