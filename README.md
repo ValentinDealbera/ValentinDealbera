@@ -5,13 +5,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=valentindealbera&label=Profile%20views&color=0e75b6&style=flat" alt="valentindealbera" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentindealbera" alt="valentindealbera" /></a> </p>
-
+<p align="center">
 - 🌱 I’m currently learning **Advance CSS, Typescript and React Native**
 
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or anything :3**
 
 - 📫 How to reach me **valentindealbera01@gmail.com**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/valentin-dealbera-b30561262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin dealbera" height="30" width="40" /></a>
