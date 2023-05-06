@@ -7,9 +7,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentindealbera" alt="valentindealbera" /></a> </p>
 <p align="center">
 - 🌱 I’m currently learning **Advance CSS, Typescript and React Native**
-
+</p>
+<p align="center">
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or anything :3**
-
+  </p>
+<p align="center">
 - 📫 How to reach me **valentindealbera01@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>
